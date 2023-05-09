@@ -25,7 +25,7 @@ Check out [FRONTEND LIVE DEMO](https://cinema-frontend.promissyjdelpin.repl.co/)
 1. Git Clone
 
 ```
-git clone https://github.com/cnye825/Cinema-Paradise-Main.git
+git clone https://github.com/promissyjdelpino/cinema-paradise.git
 ```
 
 2. Backend setting
